@@ -1,0 +1,4 @@
+SITE,PROXY FILE,PROFILE NAME,LINK,PID,DELAY,PAYMENT,TASKS,MODE
+Power,proxies.txt,MAIN,,1120311,5,CARD,1,
+Plommehuset,proxies.txt,MAIN,https://www.plommehuset.no/products/premium-9h-25d-herdet-glass-iphone-11-skjermbeskytter2,,5,VIPPS,1,
+Proshop,proxies.txt,MAIN,,2799269,5,,1,
