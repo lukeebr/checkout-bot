@@ -11,3 +11,4 @@ Includes:
   - Webhooks
   - Settings configuration
   - Task manager
+  - Clean & organized code, with comments in Norwegian
