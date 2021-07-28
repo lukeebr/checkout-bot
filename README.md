@@ -13,3 +13,4 @@ Includes:
   - Task manager
   - Clean & organized code, with comments in Norwegian
   - Configurable modes
+  - Completely request based
